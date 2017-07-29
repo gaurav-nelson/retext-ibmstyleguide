@@ -1,0 +1,42 @@
+{
+  "name": "retext-ibmstyleguide",
+  "version": "1.0.0",
+  "description": "Word usage guidence for technical writers. (from the IBM style guide)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaurav-nelson/retext-ibmstyleguide.git"
+  },
+  "keywords": [
+    "ibm",
+    "styleguide",
+    "technical",
+    "writing",
+    "publication",
+    "editing",
+    "authoring",
+    "english",
+    "word",
+    "usage"
+  ],
+  "author": "Gaurav Nelson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaurav-nelson/retext-ibmstyleguide/issues"
+  },
+  "homepage": "https://github.com/gaurav-nelson/retext-ibmstyleguide#readme",
+  "dependencies": {
+    "lodash.difference": "^4.5.0",
+    "nlcst-search": "^1.4.1",
+    "nlcst-to-string": "^2.0.1",
+    "object-keys": "^1.0.11",
+    "retext": "^5.0.0",
+    "unist-util-find-after": "^2.0.1",
+    "unist-util-find-before": "^2.0.1",
+    "unist-util-position": "^3.0.0",
+    "vfile-reporter": "^4.0.0"
+  }
+}

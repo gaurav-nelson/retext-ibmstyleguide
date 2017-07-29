@@ -1,0 +1,1474 @@
+{
+    "a lot of": {
+        "data": ["a lot of, a lot [n.] Replace with \"many\" or \"much.\""],
+        "replace": ["many", "much"]
+    },
+    " a lot": {
+        "data": ["a lot of, a lot [n.] Replace with \"many\" or \"much.\""],
+        "replace": ["many", "much"]
+    },
+    "a number of": {
+        "data": ["a number of [n.] Replace with \"several.\""],
+        "replace": ["several"]
+    },
+    "abort": {
+        "data": ["abort [v.] Replace with \"cancel\" or \"stop.\""],
+        "replace": ["cancel", "stop"]
+    },
+    "about": {
+        "data": ["about [adv.] Do not use to mean \"approximately.\""],
+        "replace": []
+    },
+    "above": {
+        "data": ["above [adj.] Do not use to indicate a relative location in a document. Use \"previous\" or \"preceding.\"Correct: \"the above restrictions apply to....\"Correct: \"The previous restrictions apply to...\"Incorrect: \"The above restrictions apply to...\""],
+        "replace": []
+    },
+    "across": {
+        "data": ["across [prep.] Do not use to mean \"to\" or \"for.\"Correct: \"applications for multiple platforms\"Incorrect: \"applications across multiple platforms\""],
+        "replace": []
+    },
+    "actionable": {
+        "data": ["actionable [adj.] Do not use to mean that action can be taken. Use only in the legal context of providing grounds for a lawsuit.Incorrect: \"Transform data into actionable business information.\""],
+        "replace": []
+    },
+    "administrate": {
+        "data": ["administrate [v.] Replace with \"administer.\""],
+        "replace": ["administer"]
+    },
+    "all caps": {
+        "data": ["all caps [n.] Replace with \"uppercase.\""],
+        "replace": ["uppercase"]
+    },
+    "allow": {
+        "data": ["allow [v.] Avoid stating that inanimate objects grant abilities to people, as in \"the product allows you to...\" Whenever possible, use a direct, user-focused alternative such as \"you can use the product to...\" or \"with this product, users can...\" See may, might, can and enable."],
+        "replace": []
+    },
+    "alpha": {
+        "data": ["alpha [adj.] Do not use to mean \"alphabetic.\""],
+        "replace": []
+    },
+    "alphabetic": {
+        "data": ["alphabetic [adj.] Use \"alphabetic\" to mean of, relating to, or employing an alphabet. Do not use to mean arranged in the order of the letters of the alphabet. Correct: \"You must specify alphabetic characters.\""],
+        "replace": []
+    },
+    "alphabetical": {
+        "data": ["alphabetical [adj.] Use \"alphabetical\" to mean arranged in the order of the letters of the alphabet. Do not use to mean of, relating to, or employing an alphabet.Correct: \"The names are displayed in alphabetical order.\""],
+        "replace": []
+    },
+    "and so on": {
+        "data": ["and so on [n.] Use only when you list a clear sequence of elements, such as \"1, 2, 3, and so on\" or \"Monday, Tuesday, Wednesday, and so on.\" When you list items that do not form a clear sequence, use appropriate descriptive wording, such as \"device drivers, firmware, and other code.\""],
+        "replace": []
+    },
+    "and/or": {
+        "data": ["and/or [conj.] Do not use. Depending on the context, use a construction such as \"a or b\" or \"a, b, or both.\""],
+        "replace": ["a or b", "a b or both"]
+    },
+    "architect": {
+        "data": ["architect [n.] Use only as a noun. When you need a verb, use \"design,\" \"plan,\" or \"structure.\""],
+        "replace": []
+    },
+    "architected": {
+        "data": ["architected [adj.] Do not use unless you have no better alternative. Consider using a simpler word, such as \"designed.\""],
+        "replace": []
+    },
+    "as": {
+        "data": ["as [adv.] Do not use to mean \"because.\"Correct: \"Because you created the file, you can delete it.\"Incorrect: \"As you created the file, you can delete it.\""],
+        "replace": []
+    },
+    "as long as": {
+        "data": ["as long as [conj.] Do not use to mean mean 'on condition that'. Use \"if\" or \"provided that.\"Correct: \"Do not stop the process if the map is active.\"Incorrect: \"Do not stop the process as long as the map is active.\"Correct: \"You can leave the field blank, provided that there are no other users.\" Incorrect: \"You can leave the field blank as long as there are no other users.\""],
+        "replace": ["if", "provided that"]
+    },
+    "as per": {
+        "data": ["as per [prep.] Do not use. Use a phrase such as \"according to,\" \"as,\" or \"as in.\""],
+        "replace": ["according to", "as", "as in"]
+    },
+    "as well as": {
+        "data": ["as well as [conj.] Do not use to mean 'and'."],
+        "replace": []
+    },
+    "assembler": {
+        "data": ["assembler [n.] Do not use to refer to the language used for an assembler. Use either \"assembly language\" or \"assembler language,\" depending on the terminology used in your product. Use \"assembler\" only to refer to a computer program that converts assembly language instructions into object code."],
+        "replace": []
+    },
+    "attach": {
+        "data": ["attach [v.] Do not use as an intransitive verb unless the subject performs the action without human intervention. Instead, use \"attach\" as a transitive verb.Correct: \"The cable is attached to the monitor.\"Incorrect: \"The cable attaches to the monitor.\""],
+        "replace": []
+    },
+    "back-level": {
+        "data": ["back-level, backlevel Replace with \"earlier,\" \"previous,\" or \"not at the latest level.\""],
+        "replace": ["earlier", "previous", "not at the latest level"]
+    },
+    "backward compatible": {
+        "data": ["backward compatible, backward-compatible [adj.] Replace with \"compatible with earlier versions.\""],
+        "replace": ["compatible with earlier versions"]
+    },
+    " backward-compatible": {
+        "data": ["backward compatible, backward-compatible [adj.] Replace with \"compatible with earlier versions.\""],
+        "replace": ["compatible with earlier versions"]
+    },
+    "below": {
+        "data": ["below [adj.] Do not use to indicate a relative location in a document.Correct: \"The information later in this section ...\"Correct: \"The following table shows ...\"Incorrect: \"The information below ...\""],
+        "replace": []
+    },
+    "best-of-breed": {
+        "data": ["best-of-breed [adj.]Use only to describe a product that is demonstrated to be the best of its type, based on concrete evidence. (Unsubstantiated claims can cause legal problems.)"],
+        "replace": []
+    },
+    "between": {
+        "data": ["between [prep.] Do not use to show a range of numbers; it is not clear whether the two numbers are the boundaries of the range or are included in the range. See \"Ranges of numbers\" (p. 159) in the IBM Style Guide for a more detailed explanation."],
+        "replace": []
+    },
+    "Big Blue": {
+        "data": ["Big Blue [n.] Avoid; use \"IBM\" instead."],
+        "replace": ["IBM"]
+    },
+    "billion": {
+        "data": ["billion [n.] Do not use. Use the number rather than the word because it has different meanings in different countries. To US readers, one billion means 1,000,000,000 (one thousand million), and in some other countries, one billion means 1,000,000,000,000 (one million million)."],
+        "replace": []
+    },
+    "bitness": {
+        "data": ["bitness [n.] Do not use. Refer to the bit version of an operating system, not to its 'bitness'."],
+        "replace": []
+    },
+    "black box": {
+        "data": ["black box [n.] Although it is widely used in the computer industry, \"black box\" is jargon and might not be understood by all readers. Try to find an alternative, but if you must use it in technical documentation, provide a definition."],
+        "replace": []
+    },
+    "blink": {
+        "data": ["blink [v.] Do not use to refer to indicator lights. Use \"flash.\""],
+        "replace": ["flash"]
+    },
+    "blue screen of death": {
+        "data": ["blue screen of death [n.] Do not use. Use \"stop error,\" and describe the type of message received. You can mention 'blue screen', but only as additional contextual information.Example: 'You might receive a stop error on a blue screen, with the message *** Fatal System Error: ...'"],
+        "replace": ["stop error"]
+    },
+    "board": {
+        "data": ["board [n.] Do not use by itself to refer to a computer component. Use as part of the term \"system board,\" or use \"adapter.\""],
+        "replace": []
+    },
+    "both": {
+        "data": ["both [conj.] Use to refer to two items only (for example, \"Create a password for both the administrator and the user\"). To conform to modern usage, and to be precise, use \"both\" for only two items when used as a conjunction. (This usage advice is contrary to the example shown in the Merriam-Webster Collegiate Dictionary.)"],
+        "replace": []
+    },
+    "bottom right": {
+        "data": ["bottom right [n.]; bottom-right [adj.]  Do not use. Use \"lower right\" [n.] or \"lower-right\" [adj.] to refer to the location of an item in an interface. Accessibility requirement: People who are blind or have low vision might not be able to understand information if it is conveyed only by location. Provide additional text information other than location. For example, write 'The tables are displayed in the Table List pane, which is in the lower right of the window,' not 'The list of tables is displayed in the lower right of the window.'"],
+        "replace": ["lower right", "lower-right"]
+    },
+    " bottom-right": {
+        "data": ["bottom right [n.]; bottom-right [adj.]  Do not use. Use \"lower right\" [n.] or \"lower-right\" [adj.] to refer to the location of an item in an interface. Accessibility requirement: People who are blind or have low vision might not be able to understand information if it is conveyed only by location. Provide additional text information other than location. For example, write 'The tables are displayed in the Table List pane, which is in the lower right of the window,' not 'The list of tables is displayed in the lower right of the window.'"],
+        "replace": ["lower right", "lower-right"]
+    },
+    "bottom left": {
+        "data": ["bottom left [n.], bottom-left [adj.]  Do not use. Use \"lower left\" [n.] or \"lower-left\" [adj.] to refer to the location of an item in an interface. Accessibility requirement: People who are blind or have low vision might not be able to understand information if it is conveyed only by location. Provide additional text information other than location. For example, write 'The tables are displayed in the Table List pane, which is in the lower right of the window,' not 'The list of tables is displayed in the lower right of the window.'"],
+        "replace": ["lower left", "lower-left"]
+    },
+    " bottom-left": {
+        "data": ["bottom left [n.], bottom-left [adj.]  Do not use. Use \"lower left\" [n.] or \"lower-left\" [adj.] to refer to the location of an item in an interface. Accessibility requirement: People who are blind or have low vision might not be able to understand information if it is conveyed only by location. Provide additional text information other than location. For example, write 'The tables are displayed in the Table List pane, which is in the lower right of the window,' not 'The list of tables is displayed in the lower right of the window.'"],
+        "replace": ["lower left", "lower-left"]
+    },
+    "breadcrumbing": {
+        "data": ["breadcrumbing [n.] Do not use to describe the act of navigating on the web. Use \"breadcrumb trail\" instead."],
+        "replace": ["breadcrumb trail"]
+    },
+    "bring up": {
+        "data": ["bring up [v.] Do not use with reference to hardware, software, or UI elements. Replace with \"open\" or \"start.\""],
+        "replace": []
+    },
+    "business partner": {
+        "data": ["business partner [n.] Do not use \"business partner\" generically to refer to the relationship that IBM has with another company; it implies a legal business partnership. Use \"IBM Business Partner\" when referring to a participant in the IBM Business Partner program. You can use \"business partner\" to refer to the partnership that companies (real or fictitious) other than IBM have with each other."],
+        "replace": []
+    },
+    "cache": {
+        "data": ["cache [n., v.] Use as a noun rather than a verb in most cases. If possible, avoid the verb form by using a suitable alternative, such as \"store in a cache.\""],
+        "replace": []
+    },
+    "camel case": {
+        "data": ["camel case [n., adj.] Avoid this imprecise colloquialism when possible. Instead, explicitly state your convention and give an example. If you must use this term, enclose it in quotation marks, and include an explanation and an example. Because this term is only one of several terms for the same concept, it causes problems for translators. In addition, it is ambiguous because the capitalization scheme varies."],
+        "replace": []
+    },
+    "canned": {
+        "data": ["canned [adj.] Do not use. Depending on the context, use a more precise word such as \"preplanned,\" \"preconfigured,\" or\"predefined.\" 'Canned' is a jargon term that has many slang interpretations, and it is too vague to use for a wide range of meanings."],
+        "replace": ["preplanned", "preconfigured", "predefined"]
+    },
+    "carry out": {
+        "data": ["carry out [n.] Do not use if more direct wording is possible. For example, replace 'Carry out testing of the scenarios' with 'Test the scenarios'; replace 'Carry out these commands' with 'Run these commands.'"],
+        "replace": []
+    },
+    "case insensitive": {
+        "data": ["case insensitive [adj.] Replace with \"not case-sensitive.\""],
+        "replace": ["not case-sensitive"]
+    },
+    "catastrophic error": {
+        "data": ["catastrophic error [n.] Replace with \"unrecoverable error\" or use wording that indicates that the error disrupts operations."],
+        "replace": ["unrecoverable error"]
+    },
+    "catch": {
+        "data": ["catch [v.] Do not use to refer to the detection of an undesirable status situation except in Java documentation, as in \"catch an exception.\" Correct: \"detect an error\"Incorrect: \"catch an error\""],
+        "replace": []
+    },
+    "CBE": {
+        "data": ["CBE [n.] Do not use this abbreviation of \"Common Base Event\" 'CBE' is a trademark of another company."],
+        "replace": ["Common Base Event"]
+    },
+    "CBTS": {
+        "data": ["CBTS [n.] Do not use 'CBTS' as the abbreviation of 'CICS Transaction Services.' \"CICS BTS\" is the recommended diminution, although \"BTS\" is acceptable in the appropriate context."],
+        "replace": ["CICS BTS", "BTS"]
+    },
+    "central processing unit": {
+        "data": ["central processing unit [n.] Use only when the term is used explicitly in the product interface. Otherwise, use \"processor\" or \"microprocessor.\" The same advice applies to the abbreviation \"CPU.\" \"Central processing unit,\" or \"CPU,\" is an older term for \"processor\" or \"microprocessor.\""],
+        "replace": []
+    },
+    "check": {
+        "data": ["check [v.] Do not use to refer to marking a check box. Use \"select\" and \"clear.\""],
+        "replace": []
+    },
+    "choose": {
+        "data": ["choose [v.] Do not use to refer to actions performed on interface elements. Use \"click\" or \"double-click\" for menu commands, push buttons, and other interface elements. Use \"select\" and \"clear\" for check boxes."],
+        "replace": []
+    },
+    "cold boot": {
+        "data": ["cold boot, cold start [n.] Replace with \"hardware restart\" or similar alternative wording."],
+        "replace": ["hardware restart"]
+    },
+    " cold start": {
+        "data": ["cold boot, cold start [n.] Replace with \"hardware restart\" or similar alternative wording."],
+        "replace": ["hardware restart"]
+    },
+    "combination box": {
+        "data": ["combination box [n.] Use only in information for interface developers to explain how to create a graphical interface. Do not use in instructions about how to use a graphical interface; use the name of the field instead."],
+        "replace": []
+    },
+    "combo box": {
+        "data": ["combo box [n.] Do not use."],
+        "replace": []
+    },
+    "comes with": {
+        "data": ["comes with [v.] Replace with \"includes.\""],
+        "replace": ["includes"]
+    },
+    "command console": {
+        "data": ["command console [n.] Do not use."],
+        "replace": []
+    },
+    "Common Base Event": {
+        "data": ["Common Base Event [n.] Do not use \"Common Base Event\" as a noun. Instead use the generic term \"event.\" If you must be more specific, write something like \"an event that conforms to the Common Base Event specification.\""],
+        "replace": []
+    },
+    "complete": {
+        "data": ["complete [v.] Do not use as a reflexive verb. Use \"is completed.\" Correct: \"the program is completed.\"Incorrect: \"the program completes.\""],
+        "replace": []
+    },
+    "componentization": {
+        "data": ["componentization [n.] Replace with \"component-based development,\" \"component model,\" \"component architecture,\" \"shared components,\" or another similar expression unless \"componentization\" is part of the existing product terminology."],
+        "replace": ["component-based development", "component model", "component architecture", "shared components"]
+    },
+    "componentize": {
+        "data": ["componentize [v.] Replace with \"develop components\" or a similar phrase."],
+        "replace": ["develop components"]
+    },
+    "comprised of": {
+        "data": ["comprised of [v.] Do not use. 'Comprise', which means both 'be made up of' and 'make up', is often used incorrectly. Consider replacing it with a clearer alternative such as \"consist of\", when possible. Correct: 'The array comprises five disks.' Correct: 'Five disks comprise the array.' Correct: 'The array consists of five disks.' Incorrect: 'The array is comprised of five disks.'"],
+        "replace": ["consist of"]
+    },
+    "congratulations": {
+        "data": ["congratulations [n.] Do not use in technical information. If you believe that it is useful to inform readers that they have completed a tutorial or a complex procedure, state the obvious: 'You have now completed the tutorial.'"],
+        "replace": []
+    },
+    "connect": {
+        "data": ["connect [v.] Do not use as an intransitive verb.Correct: \"The power cord is connected to the computer.\"Incorrect: \"The power cord connects to the computer.\""],
+        "replace": []
+    },
+    "connect with": {
+        "data": ["connect with [v.] Replace with \"connect to.\""],
+        "replace": ["connect to"]
+    },
+    "consumability": {
+        "data": ["consumability [n.] Do not use in technical information. Use more precise terms relating to specific features of a product. Although this term is widely used, it causes translation difficulties."],
+        "replace": []
+    },
+    "consume": {
+        "data": ["consume [v.] Do not use when a simpler term such as \"use\" would be more appropriate. Use only to mean \"use up.\"Correct: \"The number of disk pages used by all indexes defined on a table ...\"Correct: \"Because the resources have been consumed, they can no longer be used.\"Incorrect: \"The number of disk pages consumed by all indexes defined on a table...\""],
+        "replace": []
+    },
+    "context menu": {
+        "data": ["context menu [n.] Do not use. Use \"menu\" if possible. Use \"pop-up menu\" if you must emphasize how the menu functions."],
+        "replace": ["menu", "pop-up menu"]
+    },
+    "contextual help": {
+        "data": ["contextual help [adj.] Do not use to describe how to use the help. Use \"help\" when you are addressing users of help. If you are describing how to create different types of help information, use \"context-sensitive help.\""],
+        "replace": ["help", "context-sensitive help"]
+    },
+    "control-click": {
+        "data": ["control-click [v.] Replace with \"press Ctrl and click.\""],
+        "replace": ["press Ctrl and click"]
+    },
+    "could": {
+        "data": ["could [v.] Do not use in the present tense to mean \"might\" or \"can.\" Use only in the past conditional form.Correct: \"files that could not be identified\""],
+        "replace": []
+    },
+    "CPU": {
+        "data": ["CPU [n.] Use \"central processing unit\" and its abbreviation, \"CPU,\" only when the terms are used explicitly in the product interface. Otherwise, use \"processor\" or \"microprocessor.\" \"CPU,\" or \"central processing unit,\" is an older term for \"processor\" or \"microprocessor.\""],
+        "replace": []
+    },
+    "crash": {
+        "data": ["crash [v.] Use a more specifc term, such as \"fail,\" \"lock up,\" \"stop,\" or \"stop responding\""],
+        "replace": ["fail", "lock up", "stop", "stop responding"]
+    },
+    "CRUD": {
+        "data": ["CRUD [n.] Do not use. Instead, write what it means: \"create, retrieve, update, and delete.\""],
+        "replace": ["create retrieve update and delete"]
+    },
+    "Ctrl-click": {
+        "data": ["Ctrl-click [v.] Replace with \"press Ctrl and click.\""],
+        "replace": ["press Ctrl and click"]
+    },
+    "customer": {
+        "data": ["customer [n.] Replace with \"client.\""],
+        "replace": ["client"]
+    },
+    "customers": {
+        "data": ["customers [n.] Talk to your readers (\"you\"), not about them (\"customers\")."],
+        "replace": []
+    },
+    "datum": {
+        "data": ["datum [n.] Do not use. Use \"data\" as a singular noun with a singular verb."],
+        "replace": ["data"]
+    },
+    "daughterboard": {
+        "data": ["daughterboard [n.] Do not use. Use the specific name or function of the plug-in adapter that you are referring to."],
+        "replace": []
+    },
+    "debuggable": {
+        "data": ["debuggable [adj.] Do not use. Rephrase the sentence to use the verb or noun \"debug.\"Correct: \"You must rebuild the version that can be debugged.\"Incorrect: \"You must rebuild the debuggable version.\""],
+        "replace": ["debug"]
+    },
+    "decompress": {
+        "data": ["decompress [v.] Use \"decompress\" to refer only to converting compressed data to its expanded or original size. See also \"extract.\""],
+        "replace": []
+    },
+    "decompressed": {
+        "data": ["decompressed [adj.] Use \"decompressed\" to refer to data that was previously compressed. Use \"uncompressed\" to refer to data that was not previously compressed."],
+        "replace": []
+    },
+    "deconfigure": {
+        "data": ["deconfigure [v.] Replace with \"unconfigure.\""],
+        "replace": ["unconfigure"]
+    },
+    "deinstall": {
+        "data": ["deinstall [v.] Replace with \"uninstall.\""],
+        "replace": ["uninstall"]
+    },
+    "deinstallation": {
+        "data": ["deinstallation [n.] Do not use. Replace with \"uninstallation.\""],
+        "replace": ["uninstallation"]
+    },
+    "demilitarized zone": {
+        "data": ["demilitarized zone [n.] Do not use 'demilitarized zone', which has military connotations, or 'perimeter network'. Use \"DMZ.\" A 'DMZ' is a configuration that includes multiple firewalls, which add layers of protection between a corporate intranet and a public network, such as the Internet."],
+        "replace": ["DMZ"]
+    },
+    "demo": {
+        "data": ["demo [n., v.] Do not use, except in marketing content. Use \"demonstration\" (n.) and demonstrate (v.)."],
+        "replace": ["demonstration"]
+    },
+    "deploy": {
+        "data": ["deploy [v.] Use only as a verb. The noun or adjective is \"deployment.\""],
+        "replace": []
+    },
+    "depress": {
+        "data": ["depress [v.] Do not use to refer to pressing keys, buttons, or latches or typing on a keyboard. Use \"press\" or \"type\" to refer to a keyboard, and use 'press' with reference to hardware devices."],
+        "replace": ["press", "type"]
+    },
+    "deregister": {
+        "data": ["deregister [v.] Replace with \"unregister.\""],
+        "replace": ["unregister"]
+    },
+    "designed to": {
+        "data": ["designed to [v.] In technical information, do not use \"designed to\" to describe a concrete product function. In some situations, it is appropriate to use \"designed to,\" for example, to refer to potential performance benefits but ensure that you do not make a false claim.Correct: \"product X provides...\"Incorrect: \"product X is designed to provide...\""],
+        "replace": []
+    },
+    "desire": {
+        "data": ["desire [v.], desired [adj.] Replace with \"want\" [v.] or \"required\" [adj.]"],
+        "replace": ["want", "required"]
+    },
+    "destroy": {
+        "data": ["destroy [v.] Do not use to indicate removal of an object from a database. Write specifically what happens to the object, such as \"delete from the database.\""],
+        "replace": ["delete from the database"]
+    },
+    "dismiss (a window, a dialog box)": {
+        "data": ["dismiss (a window, a dialog box) [v.] Replace with \"close.\""],
+        "replace": ["close"]
+    },
+    "dismount": {
+        "data": ["dismount [v.] Replace with \"demount\" except in information for a UNIX system, such as AIX. In that case, use \"unmount\" or \"remove.\""],
+        "replace": ["demount", "unmount", "remove"]
+    },
+    "display": {
+        "data": ["display [v.] Use only as a transitive verb.Correct: \"The message is displayed.\"Correct: \"The system displays a message.\"Incorrect: \"The message displays.\""],
+        "replace": []
+    },
+    "do": {
+        "data": ["do (a step) [v.] Use \"complete\" or \"perform.\""],
+        "replace": ["complete", "perform"]
+    },
+    "domestic": {
+        "data": ["domestic [adj.] Do not use \"domestic\" and \"foreign\" to differentiate geographic locations. Use the names of the respective countries or regions, or use phrases such as \"United States only\" and \"countries other than the United States.\""],
+        "replace": []
+    },
+    "done": {
+        "data": ["done [adj.] Use \"finished.\""],
+        "replace": []
+    },
+    "downgrade": {
+        "data": ["downgrade [v] Do not use to refer to the opposite of \"upgrade.\" Use a term such as \"fallback,\" \"fall back,\" \"rollback,\" or \"roll back,\" or use a phrase such as 'revert to an earlier version.'"],
+        "replace": ["upgrade", "fallback", "fall back", "rollback", "roll back"]
+    },
+    "downlevel": {
+        "data": ["downlevel, down-level [adj.] Replace with \"earlier, \"previous,\" or \"not at the latest level.\""],
+        "replace": ["earlier", "previous", "not at the latest level"]
+    },
+    " down-level": {
+        "data": ["downlevel, down-level [adj.] Replace with \"earlier, \"previous,\" or \"not at the latest level.\""],
+        "replace": ["earlier", "previous", "not at the latest level"]
+    },
+    "downward compatible": {
+        "data": ["downward compatible [adj.] Replace with \"compatible with earlier versions.\""],
+        "replace": ["compatible with earlier versions"]
+    },
+    "drag and drop": {
+        "data": ["drag and drop [v.] Replace with \"drag,\" which includes the action of dropping an object."],
+        "replace": ["drag"]
+    },
+    "drill up": {
+        "data": ["drill up [v.] Replace with \"navigate.\""],
+        "replace": ["navigate"]
+    },
+    "due to": {
+        "data": ["due to [prep.] Use only in adjectival clauses. In adverbial clauses, replace with \"because of.\"Correct: \"Because of the power failure, the update stopped.\"Correct: \"The power failure was due to an electrical storm.\"Incorrect: \"Due to the power failure, the update stopped.\""],
+        "replace": []
+    },
+    "e-fix": {
+        "data": ["e-fix, eFix [n.] Replace with the appropriate term, such as \"fix,\" \"interim fix,\" \"program temporary fix,\" or \"test fix.\""],
+        "replace": ["fix", "interim fix"]
+    },
+    " eFix": {
+        "data": ["e-fix, eFix [n.] Replace with the appropriate term, such as \"fix,\" \"interim fix,\" \"program temporary fix,\" or \"test fix.\""],
+        "replace": ["fix", "interim fix"]
+    },
+    "e.g.": {
+        "data": ["e.g. [conj.] Replace with \"for example\" or \"such as.\""],
+        "replace": ["for example", "such as"]
+    },
+    "either": {
+        "data": ["either [adj.] Use to mean \"any one of two.\" Although \"either\" can be used to mean \"each,\" as in \"close the latch on either side of the cover,\" avoid this usage. Use \"each\" to avoid confusion or imprecision."],
+        "replace": []
+    },
+    "end user": {
+        "data": ["end user [n.] Replace with \"user.\""],
+        "replace": ["user"]
+    },
+    "end-user interface": {
+        "data": ["end-user interface [n.] Replace with \"graphical interface\" or \"interface.\""],
+        "replace": ["graphical interface", "interface"]
+    },
+    "EPUB": {
+        "data": ["EPUB [n.] Use as a noun only to refer to the file type, not to refer to an EPUB file.Correct: \"The following file types are supported: EPUB, HTML, PDF,...\"Incorrect: \"Download the EPUB.\""],
+        "replace": []
+    },
+    "etc.": {
+        "data": ["etc. [n.] Replace with \"and so on\" when you list a clear sequence of elements, such as '1, 2, 3, and so on' or 'Monday, Tuesday, Wednesday, and so on'. When you list items that do not form a clear sequence, use appropriate descriptive wording, such as 'device drivers, firmware, and other code'."],
+        "replace": ["and so on"]
+    },
+    "EUI": {
+        "data": ["EUI [n.] Do not use 'end-user interface' or 'EUI'. Use \"graphical user interface\" or \"interface.\""],
+        "replace": ["graphical user interface", "interface"]
+    },
+    "execute": {
+        "data": ["execute [v.] In technical content, use only if a simpler, less technical term, such as \"run\" or \"issue,\" or a more specific term, such as \"start,\" \"enter,\" or \"open\" is inappropriate. If execute is used as a keyword, you can use \"execute\" in related text to maintain consistency."],
+        "replace": []
+    },
+    "expose": {
+        "data": ["expose [v.] Replace with \"display,\" \"show,\" or \"make available.\""],
+        "replace": ["display", "show", "make available"]
+    },
+    "fatal": {
+        "data": ["fatal [adj.] Use only to refer to situations resulting in death, and not to refer to the failure of a program or application. Use \"unrecoverable\" or other wording that indicates that an operation is disrupted."],
+        "replace": []
+    },
+    "fill in": {
+        "data": ["fill in [v.] Replace with a more precise verb, such as \"complete,\" \"enter,\" or \"specify.\"Correct: \"Complete the remarks section.\"Correct: \"Enter the name and address.\"Correct: \"Specify the job queue parameter.\"Incorrect: \"Fill in the remarks section.\""],
+        "replace": ["complete", "enter", "specify"]
+    },
+    "fixed disk drive": {
+        "data": ["fixed disk drive [n.] Replace with \"hard disk drive.\""],
+        "replace": ["hard disk drive"]
+    },
+    "flavor": {
+        "data": ["flavor [n.] Replace with \"version\" or \"method.\""],
+        "replace": ["version", "method"]
+    },
+    "floppy": {
+        "data": ["floppy, floppy disk, floppy drive [n.] Replace with \"diskette\" and \"diskette drive.\""],
+        "replace": ["diskette", "diskette drive"]
+    },
+    " floppy disk": {
+        "data": ["floppy, floppy disk, floppy drive [n.] Replace with \"diskette\" and \"diskette drive.\""],
+        "replace": ["diskette", "diskette drive"]
+    },
+    " floppy drive": {
+        "data": ["floppy, floppy disk, floppy drive [n.] Replace with \"diskette\" and \"diskette drive.\""],
+        "replace": ["diskette", "diskette drive"]
+    },
+    "foo": {
+        "data": ["foo, foobar, fubar [n.] Do not use. These terms are variants of an acronym of a profanity that is sometimes used by developers in code. If you see either term in sample code, revise the example or do not publish it. Rewrite any text to omit these terms."],
+        "replace": []
+    },
+    " foobar": {
+        "data": ["foo, foobar, fubar [n.] Do not use. These terms are variants of an acronym of a profanity that is sometimes used by developers in code. If you see either term in sample code, revise the example or do not publish it. Rewrite any text to omit these terms."],
+        "replace": []
+    },
+    " fubar": {
+        "data": ["foo, foobar, fubar [n.] Do not use. These terms are variants of an acronym of a profanity that is sometimes used by developers in code. If you see either term in sample code, revise the example or do not publish it. Rewrite any text to omit these terms."],
+        "replace": []
+    },
+    "foreign": {
+        "data": ["foreign [adj.] Do not use to differentiate geographic locations. Use the names of the respective countries or regions, or use phrases such as \"United States only\" and \"countries other than the United States.\""],
+        "replace": []
+    },
+    "forward compatible": {
+        "data": ["forward compatible [adj.] Replace with \"compatible with later versions.\""],
+        "replace": ["compatible with later versions"]
+    },
+    "free": {
+        "data": ["free [adj.] The current IBM legal guideline the adjective \"free\" only if \"all qualifying conditions needed to establish eligibility for the free item are fully disclosed...in close promixity to the offer.\" So, if there are no qualifying conditions (the item is truly free), then use \"free.\""],
+        "replace": []
+    },
+    "freeze": {
+        "data": ["freeze [v.]Do not use to refer to a software application that stops responding.Correct: \"The application stops responding.\"Correct: \"The application hangs.\"Incorrect: \"The application freezes.\""],
+        "replace": []
+    },
+    "functionality": {
+        "data": ["functionality [n.] Use only to refer to a set of functions and their specified properties. Consider using a simpler term, for example \"functions.\""],
+        "replace": []
+    },
+    "geography": {
+        "data": ["geography [n.] Do not use to mean \"geographical area.\"Correct: \"This version is available worldwide.\"Incorrect: \"This version is available in all geographies.\""],
+        "replace": []
+    },
+    "green screen": {
+        "data": ["green screen [n.] In most cases, use a more precise term such as \"3270 application,\" \"5250 application,\" or \"character-based interface.\" \"Green screen\" is occasionally used to refer to monochrome display devices. If you need a term to contrast with \"GUI,\" use \"character-based interface.\" If you must use \"green screen,\" for example because you believe your audience will use it as a search term, enclose the first occurrence in quotation marks to indicate that it is a nonstandard term, clarify what it means, and thereafter use preferred alternatives."],
+        "replace": []
+    },
+    "guarantee": {
+        "data": ["guarantee [n., v.] Do not use."],
+        "replace": []
+    },
+    "gzip": {
+        "data": ["gzip [v.] Do not use mean to compress files with a compression utility. Use \"compress,\" which applies to a variety of formats and utilities."],
+        "replace": ["compress"]
+    },
+    "gzipped": {
+        "data": ["gzipped [adj.] Do not use to refer to a compressed file. Use \"archive\" or \"compressed file,\" which applies to several formats and utilities. To refer to a file that was compressed with the gzip program, it is acceptable to use 'file in gzip format'."],
+        "replace": ["archive", "compressed file"]
+    },
+    "hard boot": {
+        "data": ["hard boot [n.] Do not use."],
+        "replace": []
+    },
+    "hard drive": {
+        "data": ["hard drive [n.] Replace with \"hard disk\" or \"hard disk drive\" as appropriate."],
+        "replace": ["hard disk", "hard disk drive"]
+    },
+    "hard file": {
+        "data": ["hard file [n.] Replace with \"hard disk\" or \"hard disk drive\" as appropriate."],
+        "replace": ["hard disk", "hard disk drive"]
+    },
+    "hash": {
+        "data": ["hash, hash sign [n.] Use \"number sign\" to refer to the # character unless you are writing information exclusively for a UK audience."],
+        "replace": []
+    },
+    " hash sign": {
+        "data": ["hash, hash sign [n.] Use \"number sign\" to refer to the # character unless you are writing information exclusively for a UK audience."],
+        "replace": []
+    },
+    "hence": {
+        "data": ["hence [adv.] Replace with \"therefore.\""],
+        "replace": ["therefore"]
+    },
+    "higher": {
+        "data": ["higher [adj.] Do not use to describe versions of software or fix packs. Use \"later.\""],
+        "replace": []
+    },
+    "hit": {
+        "data": ["hit [v.] Do not use to refer to pressing keys or typing on a keyboard. Use \"press\" or \"type.\""],
+        "replace": []
+    },
+    "hover help": {
+        "data": ["hover help [n.] Use \"hover help,\" not \"tooltip\" to refer to explanatory text, rich text, or links that can be viewed by moving a cursor over a graphical user interface (GUI) element, such as an icon, field, or text string. The term \"tooltip\" refers to a brief, plain text description that is displayed when a cursor is moved over a graphical image, such as an icon, that does not otherwise have a label."],
+        "replace": []
+    },
+    "i.e.": {
+        "data": ["i.e. [conj.] Don't use. Use \"that is,\" or some other appropriate phrase."],
+        "replace": ["that is"]
+    },
+    "IBM's": {
+        "data": ["IBM's [n.] Avoid \"IBM's,\" especially before product names; for example, saying \"IBM's AIX\" suggests a distinction between IBM's version of AIX and some other company's."],
+        "replace": ["IBM's", "IBM's AIX"]
+    },
+    "if...then": {
+        "data": ["if...then [conj.] Avoid using \"then\" to introduce an independent clause that follows an \"if\" clause.Correct: \"If you set a password, access is restricted.\"Incorrect: \"If you set a password, then access is restricted.\" But the \"if...then\" construction can improve clarity when you are joining two long clauses."],
+        "replace": []
+    },
+    "ifix": {
+        "data": ["ifix, i-fix, iFix, i-Fix [n.] Replace with \"interim fix.\""],
+        "replace": ["interim fix"]
+    },
+    " i-fix": {
+        "data": ["ifix, i-fix, iFix, i-Fix [n.] Replace with \"interim fix.\""],
+        "replace": ["interim fix"]
+    },
+    " iFix": {
+        "data": ["ifix, i-fix, iFix, i-Fix [n.] Replace with \"interim fix.\""],
+        "replace": ["interim fix"]
+    },
+    " i-Fix": {
+        "data": ["ifix, i-fix, iFix, i-Fix [n.] Replace with \"interim fix.\""],
+        "replace": ["interim fix"]
+    },
+    "illegal": {
+        "data": ["illegal [adj.] Use only for matters of law. Otherwise, use a term such as \"invalid,\" \"not allowed,\" or \"incorrect.\""],
+        "replace": []
+    },
+    "impact": {
+        "data": ["impact [v.] Use as a verb only to mean \"to strike forcefully.\" Otherwise, use \"affect.\""],
+        "replace": []
+    },
+    "in order to": {
+        "data": ["in order to [prep.] Use \"to\" in most cases to avoid wordiness."],
+        "replace": ["to"]
+    },
+    "in other words": {
+        "data": ["in other words [prep.] Replace with \"for example\" or \"that is.\" Ideally, state the original information clearly so that it does not require explanation."],
+        "replace": ["for example", "that is"]
+    },
+    "in spite of": {
+        "data": ["in spite of [prep.] Replace with \"regardless of\" or \"despite.\""],
+        "replace": ["regardless of", "despite"]
+    },
+    "in the event": {
+        "data": ["in the event [conj.] Replace with \"in case,\" \"if,\" or \"when.\""],
+        "replace": ["in case", "if", "when"]
+    },
+    "inactivate": {
+        "data": ["inactivate [v.] Replace with \"deactivate.\""],
+        "replace": ["deactivate"]
+    },
+    "infocenter": {
+        "data": ["infocenter, info center, information center [n.] Do not use to refer to IBM product documentation. See IBM Knowledge Center."],
+        "replace": []
+    },
+    " info center": {
+        "data": ["infocenter, info center, information center [n.] Do not use to refer to IBM product documentation. See IBM Knowledge Center."],
+        "replace": []
+    },
+    " information center": {
+        "data": ["infocenter, info center, information center [n.] Do not use to refer to IBM product documentation. See IBM Knowledge Center."],
+        "replace": []
+    },
+    "information on": {
+        "data": ["information on [prep. phrase] Replace with \"information about.\""],
+        "replace": ["information about"]
+    },
+    "information technology": {
+        "data": ["information technology [n., adj.] Use \"IT\" instead."],
+        "replace": ["IT"]
+    },
+    "ingest": {
+        "data": ["ingest [v.] Use to refer to processing data only when the term is part of the existing product terminology. Otherwise, use \"import,\" \"load,\" \"obtain,\" \"process,\" or a similar term."],
+        "replace": []
+    },
+    "instead of": {
+        "data": ["instead of Replace with \"rather than.\""],
+        "replace": ["rather than"]
+    },
+    "insure": {
+        "data": ["insure [v.] Replace with \"ensure, \" except in the context of an insurance policy."],
+        "replace": ["ensure "]
+    },
+    "internationalize": {
+        "data": ["internationalize [v.], internationalization [n., adj.]Do not use in relation to IBM software products. (They are no longer relevant in IBM software development, because products are no longer internationalized and then localized.) For IBM products, replace with \"globalize\" and \"globalization.\""],
+        "replace": []
+    },
+    "Internet address": {
+        "data": ["Internet address [n.] Do not use unless the term is part of existing product terminology. Use a more specific term such as \"IP address,\" \"URL,\" \"Internet email address,\" or \"web address,\" as appropriate."],
+        "replace": ["IP address", "URL", "Internet email address", "web address"]
+    },
+    "invoke": {
+        "data": ["invoke [v.] Use a simpler term, such as \"start\" or \"call,\" if it conveys the same meaning. Although \"invoke\" is prevalent in the industry, it might cause problems for translators and readers whose first language is not English."],
+        "replace": []
+    },
+    "irrecoverable": {
+        "data": ["irrecoverable [adj.] Replace with \"unrecoverable.\""],
+        "replace": ["unrecoverable"]
+    },
+    "itself": {
+        "data": ["itself [pron.] Do not use."],
+        "replace": []
+    },
+    "jar": {
+        "data": ["jar [v.] Do not use to refer to the action of creating a Java archive (JAR) file. Use a verb such as \"compress\" or \"archive.\""],
+        "replace": ["compress", "archive"]
+    },
+    "Java Development Kit (JDK)": {
+        "data": ["Java Development Kit (JDK) [n.] Use only to refer to a developer kit from Oracle. For a generic reference, use \"developer kit,\" \"Java developer kit,\" or \"Java SDK.\""],
+        "replace": []
+    },
+    "keep in mind": {
+        "data": ["keep in mind [v.] Replace with \"remember.\""],
+        "replace": ["remember"]
+    },
+    "key": {
+        "data": ["key [v.] Do not use as a verb. Use \"type\" or \"press.\""],
+        "replace": ["type", "press"]
+    },
+    "kill": {
+        "data": ["kill [v.] Do not use except when you are documenting a UNIX system, such as AIX. Use \"end\" or \"stop.\""],
+        "replace": []
+    },
+    "laptop": {
+        "data": ["laptop [n.] Do not use to refer to hardware. Use \"notebook\" to refer to a mobile computer. For safety, do not use wording that implies that such a computer can be used while placed on a person's lap."],
+        "replace": ["notebook"]
+    },
+    "latest": {
+        "data": ["latest [adj.] Do not use \"latest\" to describe products, functions, features, technologies, or standards when the term will become obsolete if another version is released. A topic that describes something as the \"latest\" might be in circulation long after the \"latest\" item has become established or obsolete."],
+        "replace": []
+    },
+    "via": {
+        "data": ["Latin abbreviations Do not use Latin abbreviations. They interfere with translation, and people who speak languages that are not based on Latin might not understand them. Instead, say what you mean. Correct: \"through,\" \"compared to\"Incorrect: \"via,\" \"versus\""],
+        "replace": ["through"]
+    },
+    "versus": {
+        "data": ["Latin abbreviations Do not use Latin abbreviations. They interfere with translation, and people who speak languages that are not based on Latin might not understand them. Instead, say what you mean. Correct: \"through,\" \"compared to\"Incorrect: \"via,\" \"versus\""],
+        "replace": ["compared to"]
+    },
+    "launch": {
+        "data": ["launch [v.] Replace with \"start\" or \"open.\""],
+        "replace": ["start", "open"]
+    },
+    "left-hand": {
+        "data": ["left-hand [adj.] Replace with \"left.\""],
+        "replace": ["left"]
+    },
+    "legacy": {
+        "data": ["legacy [adj.] OK to refer to \"legacy data.\" Do not use \"legacy\" to refer to older software, applications (as in \"legacy product\"), values, programming languages, or technologies that are being supplemented or replaced. In particular, avoid any implication that a product is old-fashioned or might not include up-to-date technologies. Because this usage can cause problems for our clients, specify the product information without any explanatory adjectives. For products that are still supported, but are not being actively developed, use \"existing,\" \"heritage,\" \"traditional,\" \"established,\" \"mature,\" \"earlier,\" or another appropriate neutral description in preference to \"legacy.\" To compare an existing value with a newer one, use words showing time relationships, such as \"earlier\" or \"previous.\""],
+        "replace": []
+    },
+    "let": {
+        "data": ["let [v.] Avoid stating that inanimate objects grant abilities to people. Whenever possible, use a direct, user-focused alternative.Correct: \"You can do a, b, and c.\"Incorrect: \"The program lets you do a, b, and c\""],
+        "replace": []
+    },
+    "let's": {
+        "data": ["let's [v.] Always avoid \"let us\" language."],
+        "replace": ["let us"]
+    },
+    "leverage": {
+        "data": ["leverage [v.] Replace with \"use.\""],
+        "replace": ["use"]
+    },
+    "like": {
+        "data": ["like [conj.] Do not use to mean \"such as.\""],
+        "replace": []
+    },
+    "line cord": {
+        "data": ["line cord [n.] Replace with \"power cable\" or \"power cord.\""],
+        "replace": ["power cable", "power cord"]
+    },
+    "lite": {
+        "data": ["lite [adj.] Avoid using this term to describe or explain that a function or product has limited capabilities. It is appropriate to use the term when it is part of a formal, approved product or function name, but in those instances, it is still preferable to avoid the term in explanatory text."],
+        "replace": []
+    },
+    "localize": {
+        "data": ["localize [v.], localization [n., adj.]Do not use in relation to IBM software products. (They are no longer relevant in IBM software development, because localized versions of products are no longer developed as separate entities.) For IBM products, replace with \"globalize\" and \"globalization.\""],
+        "replace": []
+    },
+    "look and feel": {
+        "data": ["look and feel, look-and-feel [n.] Replace with wording that more specifically expresses what you mean."],
+        "replace": []
+    },
+    " look-and-feel": {
+        "data": ["look and feel, look-and-feel [n.] Replace with wording that more specifically expresses what you mean."],
+        "replace": []
+    },
+    "machine": {
+        "data": ["machine [n.] Use a more specific term such as \"workstation,\" \"personal computer,\" \"server,\" or \"component.\" In the mainframe context, use the name of the operating system followed by the word \"system\" — as in \"OS/390 system.\""],
+        "replace": []
+    },
+    "main directory": {
+        "data": ["main directory [n.] Replace with \"root directory.\""],
+        "replace": ["root directory"]
+    },
+    "mash up": {
+        "data": ["mash up, mashup [v.] Do not use as a verb. Use \"create\" or another, similar verb. For example, replace 'mash up your reports' with 'create a mashup of your reports'."],
+        "replace": ["create"]
+    },
+    " mashup": {
+        "data": ["mash up, mashup [v.] Do not use as a verb. Use \"create\" or another, similar verb. For example, replace 'mash up your reports' with 'create a mashup of your reports'."],
+        "replace": ["create"]
+    },
+    "master and slave": {
+        "data": ["master and slave [n.] In a UNIX system (such as AIX), \"master and slave\" is acceptable usage. Otherwise, use \"subordinate\" — not \"slave\" — to refer to the devices controlled by the master device."],
+        "replace": []
+    },
+    "memory stick": {
+        "data": ["memory stick [n.] Replace with \"USB flash drive.\""],
+        "replace": ["USB flash drive"]
+    },
+    "microcomputer": {
+        "data": ["microcomputer [n.] Replace with \"PC.\""],
+        "replace": ["PC"]
+    },
+    "migrate": {
+        "data": ["migrate [v.] Do not use to mean \"upgrade\" or \"port.\" To migrate is to move data, users, or applications to a new program, platform, or environment. Migration can occur between unlike systems, for example, between two different vendors' databases, and migrating usually involves more work than upgrading. To upgrade is to replace software with a new release or fix level of the same program or to replace hardware with a newer model or more powerful technology. An upgrade involves little work on the user's part. To port is to move an application program from the operating system for which it was developed to a different operating system. Porting requires less effort than redevelopment."],
+        "replace": []
+    },
+    "motherboard": {
+        "data": ["motherboard [n.] Replace with \"system board.\""],
+        "replace": ["system board"]
+    },
+    "mouse over": {
+        "data": ["mouse over [v.] Replace with \"point to\" or \"move the mouse pointer over.\" \"Mouse\" is not a verb, and \"mouse over\" is probably impossible to translate."],
+        "replace": ["point to", "move the mouse pointer over", "Mouse", "mouse over"]
+    },
+    "native": {
+        "data": ["native [adv.] Avoid this term when a less-ambiguous term such as \"local,\" \"basic,\" or \"required\" is applicable."],
+        "replace": []
+    },
+    "neither ... nor": {
+        "data": ["neither ... nor [conj.] Do not use."],
+        "replace": []
+    },
+    "network-centric computing": {
+        "data": ["network-centric computing [n.] Replace with \"network computing.\""],
+        "replace": ["network computing"]
+    },
+    "new": {
+        "data": ["new [adj.] Do not use \"new\" to describe products, functions, features, technologies, or standards that are updated for each release. A topic that describes something as \"new\" might be in circulation long after the \"new\" item has become established or obsolete."],
+        "replace": []
+    },
+    "non-English": {
+        "data": ["non-English [adj.] Use \"in languages other than English\" or \"non-English-language.\" Use 'non-English-language' only as an adjective, as in 'non-English-language document'."],
+        "replace": ["in languages other than English", "non-English-language"]
+    },
+    "nonrecoverable": {
+        "data": ["nonrecoverable [adj.] Replace with \"unrecoverable.\""],
+        "replace": ["unrecoverable"]
+    },
+    "notion": {
+        "data": ["notion [n.] Replace with \"concept.\""],
+        "replace": ["concept"]
+    },
+    "offline storage": {
+        "data": ["offline storage [n.] Replace with \"auxiliary storage.\""],
+        "replace": ["auxiliary storage"]
+    },
+    "okay": {
+        "data": ["okay [n., adj.] Replace with \"OK,\" but only to refer to the text in an interface element."],
+        "replace": ["OK"]
+    },
+    "on ramp": {
+        "data": ["on ramp, on-ramp [n.] Do not use to describe a quick way of accessing a product or feature. Replace with a term such as \"access method\" or rewrite the information.Correct: \"your solution for fast, affordable meetings\"Incorrect: \"your on-ramp to fast, affordable meetings\""],
+        "replace": ["access method"]
+    },
+    " on-ramp": {
+        "data": ["on ramp, on-ramp [n.] Do not use to describe a quick way of accessing a product or feature. Replace with a term such as \"access method\" or rewrite the information.Correct: \"your solution for fast, affordable meetings\"Incorrect: \"your on-ramp to fast, affordable meetings\""],
+        "replace": ["access method"]
+    },
+    "on the fly": {
+        "data": ["on the fly Replace with a term such as \"dynamically,\" \"as needed,\" \"in real time,\" or \"immediately.\""],
+        "replace": ["dynamically", "as needed", "in real time", "immediately"]
+    },
+    "on the other hand": {
+        "data": ["on the other hand [conj.] Replace with \"however,\" \"alternatively,\" or \"conversely.\""],
+        "replace": ["however", "alternatively", "conversely"]
+    },
+    "on-premise": {
+        "data": ["on-premise, off-premise [adj.]Correct: \"on-premises,\" \"off-premises,\" \"onsite,\" \"offsite\""],
+        "replace": ["on-premises", "off-premises", "onsite", "offsite"]
+    },
+    " off-premise": {
+        "data": ["on-premise, off-premise [adj.]Correct: \"on-premises,\" \"off-premises,\" \"onsite,\" \"offsite\""],
+        "replace": ["on-premises", "off-premises", "onsite", "offsite"]
+    },
+    "once": {
+        "data": ["once [adj.] Use only to mean \"one time.\" Do not use as a conjunction to mean \"after\" or \"when.\""],
+        "replace": []
+    },
+    "out-of-the-box": {
+        "data": ["out-of-the-box [adj.] Acceptable if needed to avoid alternatives that sound awkward. If possible without introducing awkwardness, replace with alternatives such as: \"ready to use\"; \"ready for customers to use as is, without modification\"; \"applications that you can rapidly integrate into the system\"; \"items that are ready for immediate use\"; \"default settings\"; \"initial values\"; \"built-in components.\""],
+        "replace": []
+    },
+    "overhead": {
+        "data": ["overhead [n.] Ideally, replace with terminology that is more specific. For example: \"Running large queries can increase processor usage.\" is preferable to \"Running large queries can increase overhead.\""],
+        "replace": []
+    },
+    "pain point": {
+        "data": ["pain point [n.] Replace with a term such as \"challenge,\" \"concern,\" \"difficulty,\" or \"issue.\""],
+        "replace": ["challenge", "concern", "difficulty", "issue"]
+    },
+    "panel": {
+        "data": ["panel [n.] Use only to refer to the display area of nongraphical user interfaces, such as ISPF interfaces. In GUIs, use \"window\" and \"pane.\""],
+        "replace": []
+    },
+    "parent task": {
+        "data": ["parent task [n.] Replace with \"parent process.\""],
+        "replace": ["parent process"]
+    },
+    "partner": {
+        "data": ["partner [n.] Use \"IBM Business Partner\" to refer to a participant in the IBM Business Partner program. You can use \"business partner\" to refer to the partnership that companies (real or fictitious) other than IBM have with each other."],
+        "replace": []
+    },
+    "patch": {
+        "data": ["patch [n.] Do not use to mean a software fix. Use a more precise term that is appropriate for the product, such as \"fix,\" \"test fix,\" \"interim fix,\" \"fix pack,\" or \"program temporary fix.\""],
+        "replace": ["fix", "test fix", "interim fix", "fix pack", "program temporary fix"]
+    },
+    "perimeter network": {
+        "data": ["perimeter network [n.] Replace with \"DMZ.\""],
+        "replace": ["DMZ"]
+    },
+    "permit": {
+        "data": ["permit [v.] Do not use in the sense of an inanimate object granting abilities to people, unless the object is a type of authorization that does grant abilities. Whenever possible, use a direct, user-focused alternative such as \"you can use the product to...\" or \"with this product, users can...\"Correct: \"DBADM authority permits you to create database objects.\"Incorrect: \"the product permits you to...\""],
+        "replace": []
+    },
+    "phone": {
+        "data": ["phone [n.] Replace with \"telephone,\" \"cell phone,\" or \"mobile phone.\""],
+        "replace": ["telephone", "cell phone", "mobile phone"]
+    },
+    "please": {
+        "data": ["please [adv.]"],
+        "replace": []
+    },
+    "pop-up blocker": {
+        "data": ["pop-up blocker, pop-up killer [n.] Replace with \"software to block pop-up ad windows.\""],
+        "replace": ["software to block pop-up ad windows"]
+    },
+    " pop-up killer": {
+        "data": ["pop-up blocker, pop-up killer [n.] Replace with \"software to block pop-up ad windows.\""],
+        "replace": ["software to block pop-up ad windows"]
+    },
+    "pop-up help": {
+        "data": ["pop-up help [n.] Use only if you must emphasize how the help functions. Otherwise, use \"help.\""],
+        "replace": []
+    },
+    "pop-up menu": {
+        "data": ["pop-up menu [n.] Use only if you must emphasize how the menu functions. Otherwise, use \"menu.\""],
+        "replace": []
+    },
+    "position (a cursor)": {
+        "data": ["position (a cursor) [v.] Replace with \"move.\""],
+        "replace": ["move"]
+    },
+    "pound sign": {
+        "data": ["pound sign [n.] Use to refer to the # character only if you are writing information exclusively for a US or Canadian audience. Otherwise, use \"number sign.\""],
+        "replace": []
+    },
+    "power on": {
+        "data": ["power on (or off), power down [v.] Replace with \"turn on\" (or \"turn off\")."],
+        "replace": ["turn on", "turn off"]
+    },
+    " power off": {
+        "data": ["power on (or off), power down [v.] Replace with \"turn on\" (or \"turn off\")."],
+        "replace": ["turn on", "turn off"]
+    },
+    " power down": {
+        "data": ["power on (or off), power down [v.] Replace with \"turn on\" (or \"turn off\")."],
+        "replace": ["turn on", "turn off"]
+    },
+    "preload": {
+        "data": ["preload [v.], preloaded [adj.] Replace with \"preinstall,\" \"preinstalled.\""],
+        "replace": ["preinstall", "preinstalled"]
+    },
+    " preloaded": {
+        "data": ["preload [v.], preloaded [adj.] Replace with \"preinstall,\" \"preinstalled.\""],
+        "replace": ["preinstall", "preinstalled"]
+    },
+    "prepend": {
+        "data": ["prepend [v.] Replace with \"add a prefix to.\""],
+        "replace": ["add a prefix to"]
+    },
+    "prior to": {
+        "data": ["prior to [prep.] Replace with \"before.\""],
+        "replace": ["before"]
+    },
+    "program temporary fix": {
+        "data": ["program temporary fix [n.] Use this term only for IBM System i, IBM System p, and IBM System z products. For other IBM products, use \"interim fix.\" Use initial uppercase letters only in a product name or in a reference to a specific fix number, such as \"Program Temporary Fix 2.\" Otherwise, use lowercase."],
+        "replace": []
+    },
+    "proper": {
+        "data": ["proper [adj.] Do not use to mean \"correct,\" \"applicable,\" or \"appropriate.\""],
+        "replace": []
+    },
+    "pull-down": {
+        "data": ["pull-down [adj.] Use only if you must specify the type of menu or list."],
+        "replace": []
+    },
+    "quote": {
+        "data": ["quote [n.] Do not use to refer to cited text. Use \"quotation.\""],
+        "replace": []
+    },
+    "quoted": {
+        "data": ["quoted [adj.] Do not use to mean \"enclosed in quotation marks.\"Incorrect: \"quoted string\""],
+        "replace": []
+    },
+    "recommend": {
+        "data": ["recommend [v.] Replace with \"suggest.\""],
+        "replace": ["suggest"]
+    },
+    "Redbook": {
+        "data": ["Redbook, Redbooks, redbook, redbooks [n.] Do not use as nouns."],
+        "replace": []
+    },
+    " Redbooks": {
+        "data": ["Redbook, Redbooks, redbook, redbooks [n.] Do not use as nouns."],
+        "replace": []
+    },
+    " redbook": {
+        "data": ["Redbook, Redbooks, redbook, redbooks [n.] Do not use as nouns."],
+        "replace": []
+    },
+    " redbooks": {
+        "data": ["Redbook, Redbooks, redbook, redbooks [n.] Do not use as nouns."],
+        "replace": []
+    },
+    "refer to": {
+        "data": ["refer to [v.] Use \"see\" instead of \"refer to\" both for references within a document and for cross-references to other material."],
+        "replace": []
+    },
+    "reoccur (or re-occur)": {
+        "data": ["reoccur (or re-occur) [v.] Replace with \"recur.\""],
+        "replace": ["recur"]
+    },
+    "repair": {
+        "data": ["repair [v.] Do not use to refer to making changes to code. Use \"redesign.\""],
+        "replace": []
+    },
+    "reside": {
+        "data": ["reside [v.] Use \"reside\" to refer to someone's place of residence, not as a location for inanimate objects. Correct: \"If you reside in the United States or Canada, you can contact IBM Support at 1-800-IBM-SERV.\"Correct: \"The application must be in the C:\\Program Files directory.\"Incorrect: \"The application must reside in the C:\\Program Files directory.\""],
+        "replace": []
+    },
+    "respective": {
+        "data": ["respective [adj.], respectively [adv.] Do not use. Rewrite to avoid using this word to associate parts of a sentence. Correct: 'Use the FILEPATH option to specify fixed data from a file. Use the DIRECTORYPATH option...,' . Incorrect: 'Use the FILEPATH or DIRECTORYPATH option to specify fixed data from a file or directory, respectively'."],
+        "replace": []
+    },
+    " respectively": {
+        "data": ["respective [adj.], respectively [adv.] Do not use. Rewrite to avoid using this word to associate parts of a sentence. Correct: 'Use the FILEPATH option to specify fixed data from a file. Use the DIRECTORYPATH option...,' . Incorrect: 'Use the FILEPATH or DIRECTORYPATH option to specify fixed data from a file or directory, respectively'."],
+        "replace": []
+    },
+    "retry": {
+        "data": ["retry [v.] Do not use \"retry\" as a verb. Use \"try again.\" Correct: \"Try connecting to the server again.\"Incorrect: \"Retry connecting to the server.\""],
+        "replace": ["retry", "try again"]
+    },
+    "right double-click": {
+        "data": ["right double-click [v.] Replace with \"double right-click.\""],
+        "replace": ["double right-click"]
+    },
+    "right-hand": {
+        "data": ["right-hand [adj.] Replace with \"right.\""],
+        "replace": ["right"]
+    },
+    "rule of thumb": {
+        "data": ["rule of thumb [n.] Replace with \"rule.\""],
+        "replace": ["rule"]
+    },
+    "(s)": {
+        "data": ["(s) No not use to indicate an optional plural. Use the plural."],
+        "replace": []
+    },
+    "sanity check": {
+        "data": ["sanity check [n.] Do not use. Explain exactly what you mean. For example, use \"test\" or \"evaluate\". Correct: \"The quotes received from the vendors are checked to verify that the technical solution matches the requested services.\"Incorrect: \"The quotes received from the vendors undergo a sanity check to establish whether the technical solution matches the requested services.\""],
+        "replace": ["test", "evaluate"]
+    },
+    "secondary storage": {
+        "data": ["secondary storage [n.] Replace with \"auxiliary storage.\""],
+        "replace": ["auxiliary storage"]
+    },
+    "select": {
+        "data": ["select [v.] In general, use the verb \"click\" to indicate an action using a mouse. For check boxes, use \"select\" and \"clear.\" Correct: \"Click OK.\"Correct: \"Select the Start check box.\""],
+        "replace": []
+    },
+    "selected": {
+        "data": ["selected [adj.] Use to refer to a check box, radio button, menu item, or other interface element that is marked or highlighted after selection.Correct: \"The Start check box is selected.\""],
+        "replace": []
+    },
+    "selection button": {
+        "data": ["selection button [n.] Replace with \"left mouse button.\""],
+        "replace": ["left mouse button"]
+    },
+    "serial database": {
+        "data": ["serial database [n.] Replace with \"nonpartitioned database environment.\""],
+        "replace": ["nonpartitioned database environment"]
+    },
+    "shift-click": {
+        "data": ["shift-click [v.] Replace with \"press Shift and click.\""],
+        "replace": ["press Shift and click"]
+    },
+    "ship": {
+        "data": ["ship [v.] Do not use to indicate that something is included in or with a product. Use \"include\" or \"included.\"Correct: \"The feature is included with the product.\"Incorrect: \"The feature is shipped with the product.\""],
+        "replace": ["include", "included"]
+    },
+    "should": {
+        "data": ["should [v.] Always prefer a more direct verb or way of saying something. Omit \"should,\" or use \"must\" or \"might,\" as appropriate. Correct: \"Reset the parameters.\"Incorrect: \"You should reset the parameters.\""],
+        "replace": []
+    },
+    "Simple Object Access Protocol": {
+        "data": ["Simple Object Access Protocol [n.] Do not use. Replace with \"SOAP.\""],
+        "replace": ["SOAP"]
+    },
+    "simply": {
+        "data": ["simply [adv.]"],
+        "replace": []
+    },
+    "since": {
+        "data": ["since [prep.] Use \"since\" only as a preposition to refer to elapsed time, not as a conjunction meaning \"because.\""],
+        "replace": []
+    },
+    "single quote": {
+        "data": ["single quote, single quote mark [n.] Replace with \"single quotation mark.\""],
+        "replace": ["single quotation mark"]
+    },
+    " single quote mark": {
+        "data": ["single quote, single quote mark [n.] Replace with \"single quotation mark.\""],
+        "replace": ["single quotation mark"]
+    },
+    "slave": {
+        "data": ["slave [n.] Replace with \"subordinate,\" unless you are using \"slave\" in the context of a UNIX system (such as AIX), where \"slave\" is acceptable."],
+        "replace": []
+    },
+    "SME routine": {
+        "data": ["SME routine [n.] Replace with \"session management exit routine.\""],
+        "replace": ["session management exit routine"]
+    },
+    "so": {
+        "data": ["so [conj.] Do not use by itself as a conjunction. Use a less ambiguous alternative such as \"so that\" or \"therefore.\""],
+        "replace": []
+    },
+    "soft boot": {
+        "data": ["soft boot [n.] Do not use."],
+        "replace": []
+    },
+    "Solution Partnership Centers": {
+        "data": ["Solution Partnership Centers [n.] Do not use. Replaced by IBM Innovation Centers for Business Partners."],
+        "replace": []
+    },
+    "some": {
+        "data": ["some [adj.] Use only to mean \"fewer than all\" or \"less than all.\""],
+        "replace": []
+    },
+    "sort merge": {
+        "data": ["sort merge [n.], sort-merge [v.], sort/merge [v.] Replace with the separate words \"sort\" and \"merge.\""],
+        "replace": ["sort", "merge"]
+    },
+    " sort-merge": {
+        "data": ["sort merge [n.], sort-merge [v.], sort/merge [v.] Replace with the separate words \"sort\" and \"merge.\""],
+        "replace": ["sort", "merge"]
+    },
+    " sort/merge": {
+        "data": ["sort merge [n.], sort-merge [v.], sort/merge [v.] Replace with the separate words \"sort\" and \"merge.\""],
+        "replace": ["sort", "merge"]
+    },
+    "spawn (a process)": {
+        "data": ["spawn (a process) [v.] Replace with \"create.\""],
+        "replace": ["create"]
+    },
+    "start up": {
+        "data": ["start up [v.] Replace with \"start.\""],
+        "replace": ["start"]
+    },
+    "store": {
+        "data": ["store [n.] In most contexts requiring a noun, use \"storage\" instead of \"store.\" In data warehousing, the term \"data store\" is acceptable."],
+        "replace": []
+    },
+    "strike (a key)": {
+        "data": ["strike (a key) [v.] Do not use to refer to pressing keys or typing on a keyboard. Replace with \"press\" or \"type.\""],
+        "replace": ["press", "type"]
+    },
+    "sunset": {
+        "data": ["sunset [v.] Do not use. If possible, replace with a more specific term such as \"withdraw from service\" or \"withdraw from marketing.\" Otherwise, use a more general term such as \"discontinue\" or \"no longer support\"."],
+        "replace": ["withdraw from service", "withdraw from marketing", "discontinue", "no longer support"]
+    },
+    "system": {
+        "data": ["system [n.] Avoid if you can use a more specific term (such as \"computer\" or \"operating system\"). Use \"system\" to mean collectively the computer, its operating system, and its peripheral devices."],
+        "replace": []
+    },
+    "switch on": {
+        "data": ["switch on [v.], switch off [v.] Do not use in reference to hardware devices. Replace with \"power on\" or \"turn on\" and \"power off\" or \"turn off.\""],
+        "replace": ["power on", "turn on", "power off", "turn off"]
+    },
+    " switch off": {
+        "data": ["switch on [v.], switch off [v.] Do not use in reference to hardware devices. Replace with \"power on\" or \"turn on\" and \"power off\" or \"turn off.\""],
+        "replace": ["power on", "turn on", "power off", "turn off"]
+    },
+    "tab": {
+        "data": ["tab [v.] Do not use as a verb to describe navigation in a GUI"],
+        "replace": []
+    },
+    "tar": {
+        "data": ["tar [v.] Do not use to refer to the creation of a tape archive (tar) file. Replace with a verb such as \"compress\" or \"archive.\""],
+        "replace": ["compress", "archive"]
+    },
+    "tarball": {
+        "data": ["tarball [n.] Replace with \"tar file.\""],
+        "replace": ["tar file"]
+    },
+    "terminate": {
+        "data": ["terminate [v.] Replace with \"end\" or \"stop.\""],
+        "replace": ["end", "stop"]
+    },
+    "text field": {
+        "data": ["text field, text entry field [n.] In most cases, use \"field\" (for example, \"the User ID field\"). Use a qualifier such as \"text\" or \"entry\" only if necessary to distinguish between different types of fields for a specific audience, such as programmers."],
+        "replace": []
+    },
+    " text entry field": {
+        "data": ["text field, text entry field [n.] In most cases, use \"field\" (for example, \"the User ID field\"). Use a qualifier such as \"text\" or \"entry\" only if necessary to distinguish between different types of fields for a specific audience, such as programmers."],
+        "replace": []
+    },
+    "that": {
+        "data": ["that [conj.] Use \"that,\" without a comma, to introduce a restrictive clause. Use \"which,\" preceded by a comma, to introduce a nonrestrictive clause.Correct: The system units that have two drives are floor-standing models. Incorrect: The system units, that have two drives, are floor-standing models."],
+        "replace": []
+    },
+    "themselves": {
+        "data": ["themselves [n.]"],
+        "replace": []
+    },
+    "then": {
+        "data": ["then [adv.] In a two-step procedure that is written as one sentence, punctuate \"then\" as shown in the following two examples: (1) \"Do this, and then do that.\" (2) \"Do this; then do that.\" The first example's style is preferable, but you can use the style shown in the second example if you need to save space. Note that \"then\" is not a coordinating conjunction (such as \"and,\" \"or,\" and \"but\"). Using \"then\" as a coordinating conjunction creates a run-on sentence (\"Do this, then do that.\"), which is incorrect."],
+        "replace": []
+    },
+    "there is": {
+        "data": ["there is, there are [v.] Avoid at the beginning of an independent clause. In most cases rewrite to remove the phrase. Correct: \"The product includes three recovery control data sets.\"Incorrect: \"There are three recovery control data sets in the product.\""],
+        "replace": []
+    },
+    " there are": {
+        "data": ["there is, there are [v.] Avoid at the beginning of an independent clause. In most cases rewrite to remove the phrase. Correct: \"The product includes three recovery control data sets.\"Incorrect: \"There are three recovery control data sets in the product.\""],
+        "replace": []
+    },
+    "this means": {
+        "data": ["this means"],
+        "replace": []
+    },
+    "through": {
+        "data": ["through [prep.]Do not use to mean \"by using.\""],
+        "replace": []
+    },
+    "throw": {
+        "data": ["throw [v.] Use only in Java documentation, as in \"throw an exception.\" Otherwise, use an alternative construction such as \"produce an error.\""],
+        "replace": []
+    },
+    "throwable": {
+        "data": ["throwable [adj.] Use only with reference to Java exceptions. Do not use as a noun."],
+        "replace": []
+    },
+    "thru": {
+        "data": ["thru [prep.] Replace with \"through.\""],
+        "replace": ["through"]
+    },
+    "thumbstick": {
+        "data": ["thumbstick [n.] Replace with \"USB flash drive.\""],
+        "replace": ["USB flash drive"]
+    },
+    "thus": {
+        "data": ["thus [adv.] Replace with \"therefore.\""],
+        "replace": ["therefore"]
+    },
+    "time to value": {
+        "data": ["time to value [n.], time-to-value [adj.]"],
+        "replace": []
+    },
+    "time-tested": {
+        "data": ["time-tested [n.]"],
+        "replace": []
+    },
+    "toggle off": {
+        "data": ["toggle off, toggle on [v.] Replace with \"toggle.\" Correct: Toggle the switch to the off position."],
+        "replace": ["toggle"]
+    },
+    "tooling": {
+        "data": ["tooling [n.] Do not use to refer to a set of development tools associated with a product. Use the simpler, more accurate term \"tools.\" You can use \"tooling\" as an adjective to refer to activities that tool makers perform, for example, \"the Eclipse tooling platform.\""],
+        "replace": ["tools"]
+    },
+    "top left": {
+        "data": ["top left, top right [n.], top-left, top-right [adj.] Replace with \"upper left,\" \"upper right\" [n.]; \"upper-left\", \"upper-right\" [adj.]."],
+        "replace": ["upper left", "upper right", "upper-left", "upper-right"]
+    },
+    " top right": {
+        "data": ["top left, top right [n.], top-left, top-right [adj.] Replace with \"upper left,\" \"upper right\" [n.]; \"upper-left\", \"upper-right\" [adj.]."],
+        "replace": ["upper left", "upper right", "upper-left", "upper-right"]
+    },
+    " top-left": {
+        "data": ["top left, top right [n.], top-left, top-right [adj.] Replace with \"upper left,\" \"upper right\" [n.]; \"upper-left\", \"upper-right\" [adj.]."],
+        "replace": ["upper left", "upper right", "upper-left", "upper-right"]
+    },
+    " top-right": {
+        "data": ["top left, top right [n.], top-left, top-right [adj.] Replace with \"upper left,\" \"upper right\" [n.]; \"upper-left\", \"upper-right\" [adj.]."],
+        "replace": ["upper left", "upper right", "upper-left", "upper-right"]
+    },
+    "touch (a key)": {
+        "data": ["touch (a key) [v.] Do not use to refer to using a keyboard key or hardware control. Use \"press\" or \"type\" to refer to using keys on a keyboard, and use 'press' to refer to a hardware control."],
+        "replace": ["press", "type"]
+    },
+    "touchscreen": {
+        "data": ["touchscreen [n.] Replace with \"touch-sensitive screen.\""],
+        "replace": ["touch-sensitive screen"]
+    },
+    "transition": {
+        "data": ["transition [v.] Do not use as a verb. Replace with \"make the transition,\" \"move,\" \"migrate,\" or \"change.\""],
+        "replace": ["make the transition", "move", "migrate", "change"]
+    },
+    "translate": {
+        "data": ["translate [v.], translation [n.] Use to refer to language translation, such as from English to German. Do not use to refer to the conversion of internal data to a different format; use \"conversion.\""],
+        "replace": []
+    },
+    "transparent": {
+        "data": ["transparent [adj.] Replace with \"indiscernible\" or \"not visible.\""],
+        "replace": ["indiscernible", "not visible"]
+    },
+    "trillion": {
+        "data": ["trillion [n.] Do not use. Use numerals, not the word, because the value of a trillion is not the same in all countries."],
+        "replace": []
+    },
+    "twistie": {
+        "data": ["twistie, twisty [n.] Avoid in technical documentation, unless you need to specify the type of control being referred to. In general, refer to the control by its label only. Use \"expand\" to refer to clicking a twistie to display content. Use \"collapse\" to refer to clicking a twistie to hide content (for example, \"Expand Properties\")."],
+        "replace": []
+    },
+    " twisty": {
+        "data": ["twistie, twisty [n.] Avoid in technical documentation, unless you need to specify the type of control being referred to. In general, refer to the control by its label only. Use \"expand\" to refer to clicking a twistie to display content. Use \"collapse\" to refer to clicking a twistie to hide content (for example, \"Expand Properties\")."],
+        "replace": []
+    },
+    "typo": {
+        "data": ["typo [n.] Replace with \"typing error,\" \"typographical error,\" or other similar wording."],
+        "replace": ["typing error", "typographical error"]
+    },
+    "uncheck": {
+        "data": ["uncheck [v.] Do not use to refer to removing a mark from a check box. Use \"clear.\""],
+        "replace": ["clear"]
+    },
+    "uncompress": {
+        "data": ["uncompress [v.] Replace with \"decompress.\""],
+        "replace": ["decompress"]
+    },
+    "uncompressed": {
+        "data": ["uncompressed [adj.] Use \"uncompressed\" to refer to data that was not previously compressed. Use \"decompressed\" to refer to data that was previously compressed."],
+        "replace": []
+    },
+    "undeploy": {
+        "data": ["undeploy [v.] Replace with \"remove\" or \"withdraw.\""],
+        "replace": ["remove", "withdraw"]
+    },
+    "unjar": {
+        "data": ["unjar [v.] Do not use to refer to the extraction of a Java archive (JAR) file. Replace with \"extract.\""],
+        "replace": ["extract"]
+    },
+    "unmount": {
+        "data": ["unmount [v.] Use \"unmount\" or \"remove\" only in reference a UNIX system, such as AIX. Otherwise, use \"demount.\""],
+        "replace": []
+    },
+    "unselect": {
+        "data": ["unselect [v.] Do not use. Use \"clear\" to refer to removing a mark from a check box. Use \"deselect\" in other situations."],
+        "replace": ["clear", "deselect"]
+    },
+    "untar": {
+        "data": ["untar [v.] Do not use to refer to the extraction of a tape archive (tar) file. Replace with \"extract.\""],
+        "replace": ["extract"]
+    },
+    "unzip": {
+        "data": ["unzip [v.] Do not use \"unzip\" to refer to extracting or decompressing compressed data. Use extract or decompress."],
+        "replace": ["unzip"]
+    },
+    "updatable": {
+        "data": ["updatable [adj.] Do not use. Rewrite the sentence.Correct: \"can be updated\" or \"can be changed\""],
+        "replace": []
+    },
+    "upgrade": {
+        "data": ["upgrade [v.] Do not use to mean \"migrate\" or \"port.\" To migrate is to move data, users, or applications to a new program, platform, or environment. Migration can occur between unlike systems, for example, between two different vendors' databases, and migrating usually involves more work than upgrading. To upgrade is to replace software with a new release or fix level of the same program or to replace hardware with a newer model or more powerful technology. An upgrade involves little work on the user's part. To port is to move an application program from the operating system for which it was developed to a different operating system. Porting requires less effort than redevelopment."],
+        "replace": []
+    },
+    "upward compatible": {
+        "data": ["upward compatible [adj.] Replace with \"compatible with later versions.\""],
+        "replace": ["compatible with later versions"]
+    },
+    "users": {
+        "data": ["users [n.]  To be clear, address the readers as \"you\" and reserve \"users\" to mean their end users whenever possible."],
+        "replace": []
+    },
+    "using": {
+        "data": ["using [gerund] To avoid ambiguity, replace with either \"by using\" or \"that uses.\" Correct: \"Back up the server by using the installed software.\"Correct: \"Back up the server that uses the installed software.\"Incorrect: \"Back up the server using the installed software.\""],
+        "replace": []
+    },
+    "utilize": {
+        "data": ["utilize [v.] Replace with \"use.\""],
+        "replace": ["use"]
+    },
+    "version": {
+        "data": ["version [v.] Do not use as a verb. Use a phrase such as \"create a version\" or \"assign a version number\". Do not use 'versioning'."],
+        "replace": ["create a version", "assign a version number"]
+    },
+    "very": {
+        "data": ["very [adj.]"],
+        "replace": []
+    },
+    "vs.": {
+        "data": ["vs. [prep.] Do not use the abbreviation. Spell it out as \"versus\" or rewrite with equivalent wording such as \"compared to.\""],
+        "replace": ["versus", "compared to"]
+    },
+    "warning notice": {
+        "data": ["warning notice [n.] Replace with \"attention notice.\""],
+        "replace": ["attention notice"]
+    },
+    "we": {
+        "data": ["we [pron.] Address readers as \"you.\" Do not use \"we\" or \"let's\" as if author and reader were a hybrid entity. Use first person only when there's no other way to say what you mean. If an article has multiple authors who are describing something that they did together, \"we\" can be appropriate in such instances."],
+        "replace": []
+    },
+    "web-enable": {
+        "data": ["web-enable [v.] Do not use as a verb. Replace with \"enable for the web.\""],
+        "replace": ["enable for the web"]
+    },
+    "webinar": {
+        "data": ["webinar, Webinar [n.] Do not use. According to Norm Gundel, Senior IP Legal: \"webinar\" is a trademarked word, owned by an individual and registered with the US Patent and Trademark Office on April 18, 2000, Reg. #2342313. Instead, use \"webcast\" (preferred), \"web seminar,\" or \"web-based event.\""],
+        "replace": ["webinar", "webcast", "web seminar", "web-based event"]
+    },
+    " Webinar": {
+        "data": ["webinar, Webinar [n.] Do not use. According to Norm Gundel, Senior IP Legal: \"webinar\" is a trademarked word, owned by an individual and registered with the US Patent and Trademark Office on April 18, 2000, Reg. #2342313. Instead, use \"webcast\" (preferred), \"web seminar,\" or \"web-based event.\""],
+        "replace": ["webinar", "webcast", "web seminar", "web-based event"]
+    },
+    "where": {
+        "data": ["where [conj.] Use only in reference to physical location. Do not use to mean \"when,\" \"if,\" \"provided that,\" or \"in which case.\""],
+        "replace": []
+    },
+    "whether or not": {
+        "data": ["whether or not [conj.] Use \"whether or not\" only to mean \"regardless of whether\" (for example, \"Log shunting runs whether or not log archiving is enabled\"). Otherwise, use \"whether.\""],
+        "replace": []
+    },
+    "which": {
+        "data": ["which [pron.] Use \"which\", preceded by a comma, to introduce a nonrestrictive clause. Use \"that\", without a comma, to introduce a restrictive clause.Correct: The system units, which have two drives installed, are floor-standing models.Incorrect: The system units which have two drives installed are floor-standing models."],
+        "replace": []
+    },
+    "while": {
+        "data": ["while [conj.] Use only to refer to a period of time. Do not use the term as a synonym for \"although\" or \"though.\""],
+        "replace": []
+    },
+    "wish": {
+        "data": ["wish [v.] Replace with \"want.\""],
+        "replace": ["want"]
+    },
+    "would": {
+        "data": ["would [v.] Use only to refer to an unfulfilled condition or hypothesis and to express the future in the past.Correct: \"The command was rejected because it would have resulted in the ClusterName attribute being blank.\"Incorrect: \"You would need administrator authority to...\""],
+        "replace": []
+    },
+    "zero out": {
+        "data": ["zero out [v.] Do not use. Use \"zero\" to refer to resetting to zero."],
+        "replace": ["zero"]
+    },
+    "zip": {
+        "data": ["zip [v.] Do not use \"zip\" to mean to compress files with a compression utility. Use \"compress,\" which applies to a variety of formats and utilities."],
+        "replace": ["zip", "compress"]
+    }
+}
