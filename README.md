@@ -1,7 +1,7 @@
 # retext-ibmstyleguide
 Word usage guidence for technical writers.
 
-`retext-ibmstyleguide` is a [retext](https://github.com/wooorm/retext) plugin for the [Word Usage](https://www.ibm.com/developerworks/library/styleguidelines/#wordlist) advice in [IBM style guide](https://www.redbooks.ibm.com/Redbooks.nsf/ibmpressisbn/9780132101301?Open).
+`retext-ibmstyleguide` is a [retext](https://github.com/wooorm/retext) plugin for the word usage advice in [IBM style guide](https://www.redbooks.ibm.com/Redbooks.nsf/ibmpressisbn/9780132101301?Open).  It highlights errors and provide word usage advice.
 
 ## Installation
 
