@@ -51,4 +51,4 @@ Yields:
 ### `retext().use(ibmstyleguide)`
 
 ## Rules
-See [index.json]()
+See [index.json](https://github.com/gaurav-nelson/retext-ibmstyleguide/blob/master/index.json)
