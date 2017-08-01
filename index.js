@@ -209,7 +209,7 @@ function ibmstyleguide(options) {
           });
 
           message.ruleId = phrase.replace(/\s+/g, '-').toLowerCase();
-          message.source = convention;
+          message.source = "ibmstyleguide";
           message.actual = value;
           message.expected = replace;
         }
